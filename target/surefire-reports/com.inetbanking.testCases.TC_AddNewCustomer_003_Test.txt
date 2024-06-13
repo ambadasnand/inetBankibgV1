@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.inetbanking.testCases.TC_AddNewCustomer_003_Test
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 1.119 s <<< FAILURE! - in com.inetbanking.testCases.TC_AddNewCustomer_003_Test
+setup(com.inetbanking.testCases.TC_AddNewCustomer_003_Test)  Time elapsed: 0.966 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'browser' is required by BeforeClass on method setup but has not been marked @Optional or defined
+
+
